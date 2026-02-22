@@ -9,3 +9,5 @@ The following are som tasks designated for learning machine learning, and my sol
 **Description**: In this mission we are faced with the challenge of Decoding SkyNet's Neural Encryption (using Neural Networks) and locate the AI servers.
 
 ## [Mission 3: Reinforcement Learning](https://github.com/haasae/TDT4172-Introduction-to-Machine-Learning/tree/main/)
+
+**Description**: Final mission. Uses agents to reach locations.
