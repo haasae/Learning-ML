@@ -6,6 +6,4 @@ The following are som tasks designated for learning machine learning, and my sol
 
 ## [Mission 2:Operation "AI GeoGuessr"](https://github.com/haasae/TDT4172-Introduction-to-Machine-Learning/tree/main/Assignment2)
 
-**(Work in progress)**
-
 **Description**: In this mission we are faced with the challenge of Decoding SkyNet's Neural Encryption (using Neural Networks) and locate the AI servers.
