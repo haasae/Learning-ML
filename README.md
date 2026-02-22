@@ -1,3 +1,5 @@
+The following are som tasks designated for learning machine learning, and my solutions to said tasks.  
+
 ## [Mission 1: Outsmarting Skynet](https://github.com/haasae/TDT4172-Introduction-to-Machine-Learning/tree/main/Assignment1)
 
 **Description**: This mission revolves around outsmarting skynet, where you predict skynet's power consumption, decode neural encryption and go head to head against its cyberguard.
