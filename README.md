@@ -1,7 +1,5 @@
 The following are som tasks designated for learning machine learning, and my solutions to said tasks.  
 
-The purpose of these tasks is learning machine learning.
-
 
 ## [Mission 1: Regression](https://github.com/haasae/TDT4172-Introduction-to-Machine-Learning/tree/main/Assignment1)
 
